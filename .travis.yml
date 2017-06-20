@@ -1,0 +1,15 @@
+language: java
+jdk: oraclejdk8
+
+sudo: false
+
+addons: { apt: { packages: ["lib32stdc++6"] } }
+
+script:
+  - curl -Ls -o isabellectl https://dl.bintray.com/larsrh/libisabelle/nightly/isabellectl
+  - chmod +x isabellectl
+  - ./isabellectl --session "Blockchain" --version "2016-1"  --include . --verbose build
+
+cache:
+  directories:
+    - $HOME/.local/share/libisabelle
