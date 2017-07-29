@@ -5,5 +5,4 @@ datatype 'a blockchain = Empty | Block "'a blockchain"
   
 (*User Guide: Add your blocks here*)
 value \<open>Block (Block (Block (Block (Block Empty))))\<close>
-value \<open>Block (Block (Block Empty))\<close>
 end
