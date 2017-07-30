@@ -14,4 +14,5 @@ Be part of the next generation of distributed hyper blockchain technologies! Add
 
 ## History of the chain
 * First public block by [@tirix](https://github.com/tirix) in [#1](https://github.com/fu-dietersheim/Blockchain/pull/1)
-* Resolve first split of the chain by [@diekmann](github.com/diekmann) in [#3](https://github.com/fu-dietersheim/Blockchain/pull/3)
+* Resolve first split of the chain by [@diekmann](https://github.com/diekmann) in [#3](https://github.com/fu-dietersheim/Blockchain/pull/3)
+* First block in the new authoritative chain by [@larsrh](https://github.com/larsrh) in [#4](https://github.com/fu-dietersheim/Blockchain/pull/4)
