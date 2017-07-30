@@ -4,6 +4,7 @@ A verified permissioned centralized Blockchain for Isabelle/HOL
 
 [![FUD Logo](http://www.fu-dietersheim.de/graphics/earth.gif)](http://www.fu-dietersheim.de/)
 
+[![Build Status](https://travis-ci.org/fu-dietersheim/Blockchain.svg?branch=master)](https://travis-ci.org/fu-dietersheim/Blockchain)
 
 ## Public launch of the FUD public centralized permissioned blockchain
 
